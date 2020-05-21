@@ -1,0 +1,115 @@
+
+day 1:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 2:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 3:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 4:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 5:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 6:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 7:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 8:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 9:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 10:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 11:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 12:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 13:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 14:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 15:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 16:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 17:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 18:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 19:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 20:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 21:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 22:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 23:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 24:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 25:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 26:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 27:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 28:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+day 29:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+day 30:
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+
+
+dormitory - 12
+level number - 1
+rooms:
+room number 101	inhabitants:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+room number 102	inhabitants:
+name - Nikolay surname - Dav hender - man age - 18; status - S
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
+level number - 2
+rooms:
+room number 201	inhabitants:
+name - Oly surname - Em hender - wom age - 18; status - S
+best rooms:
+room number 101	inhabitants:
+name - Sergey surname - Kharlap hender - man age - 18; status - N
+room number 102	inhabitants:
+name - Nikolay surname - Dav hender - man age - 18; status - S
+name - Maksim surname - Tylypo hender - man age - 17; status - N
+name - Nikita surname - Titov hender - man age - 24; status - N
+name - Dmitry surname - Sudorev hender - man age - 18; status - N
